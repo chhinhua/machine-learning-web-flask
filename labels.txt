@@ -1,0 +1,7 @@
+0 Con mèo
+1 Con chó
+2 Con hổ
+3 Con người
+4 Con chim
+5 Con khỉ
+6 Con gà
